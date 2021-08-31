@@ -1,0 +1,8 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+I am devastator agent!!
+Super secret. Turn: 0 Action list: ['r 13 3', 'm u_1 n', 'dl 13 3 13 2']
+Super secret. Turn: 1 Action list: []
+Super secret. Turn: 2 Action list: ['m u_1 c', 'dl 13 2 13 2']
+Super secret. Turn: 3 Action list: ['m u_1 n', 'dl 13 2 13 1']

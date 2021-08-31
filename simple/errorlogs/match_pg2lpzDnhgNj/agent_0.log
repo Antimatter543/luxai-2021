@@ -1,0 +1,8 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "C:\Users\Yuvraj\Desktop\Python\Hackathons\luxai\simple\planetarydevastation.py", line 3, in <module>
+    from agents.planetarydevastation import agent
+ImportError: cannot import name 'agent' from 'agents.planetarydevastation' (C:\Users\Yuvraj\Desktop\Python\Hackathons\luxai\simple\agents\planetarydevastation.py)
+Agent timed out

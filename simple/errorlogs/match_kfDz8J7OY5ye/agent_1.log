@@ -1,0 +1,671 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+I am devastator variant agent!!
+Super secret. Turn: 0 Action list: ['r 9 9', 'm u_2 n', 'dl 9 9 9 8']
+Super secret. Turn: 1 Action list: []
+Super secret. Turn: 2 Action list: ['m u_2 c', 'dl 9 8 9 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9870D0>]
+We're gonna save this endangered city!
+Super secret. Turn: 3 Action list: ['m u_2 s', 'dl 9 8 9 9']
+Super secret. Turn: 4 Action list: ['m u_2 n', 'dl 9 9 9 8']
+Super secret. Turn: 5 Action list: []
+Super secret. Turn: 6 Action list: ['m u_2 c', 'dl 9 8 9 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F983C70>]
+We're gonna save this endangered city!
+Super secret. Turn: 7 Action list: ['m u_2 s', 'dl 9 8 9 9']
+Super secret. Turn: 8 Action list: ['m u_2 n', 'dl 9 9 9 8']
+Super secret. Turn: 9 Action list: []
+Super secret. Turn: 10 Action list: ['r 9 9', 'm u_2 c', 'dl 9 8 9 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F982DF0>]
+We're gonna save this endangered city!
+Super secret. Turn: 11 Action list: ['m u_2 s', 'dl 9 8 9 9']
+Super secret. Turn: 12 Action list: ['m u_2 n', 'dl 9 9 9 8']
+Super secret. Turn: 13 Action list: []
+Super secret. Turn: 14 Action list: ['m u_2 c', 'dl 9 8 9 8']
+Super secret. Turn: 15 Action list: ['m u_2 n', 'dl 9 8 9 7']
+Super secret. Turn: 16 Action list: []
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 17 Action list: ['bcity u_2']
+Super secret. Turn: 18 Action list: ['bw 9 7', 'm u_2 s', 'dl 9 7 9 8']
+Super secret. Turn: 19 Action list: ['m u_5 s', 'dl 9 7 9 8']
+Super secret. Turn: 20 Action list: ['r 9 9', 'm u_2 c', 'dl 9 8 9 8', 'dx 9 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9497C0>]
+We're gonna save this endangered city!
+Super secret. Turn: 21 Action list: ['m u_2 n', 'dl 9 8 9 7', 'm u_5 s', 'dl 9 7 9 8']
+Super secret. Turn: 22 Action list: ['m u_2 s', 'dl 9 7 9 8']
+Super secret. Turn: 23 Action list: ['m u_2 s', 'dl 9 7 9 8', 'dx 9 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F94A040>]
+We're gonna save this endangered city!
+Super secret. Turn: 24 Action list: ['m u_2 s', 'dl 9 7 9 8', 'm u_5 n', 'dl 9 8 9 7']
+Super secret. Turn: 25 Action list: ['m u_5 s', 'dl 9 7 9 8']
+Super secret. Turn: 26 Action list: ['m u_2 c', 'dl 9 8 9 8', 'dx 9 8']
+Super secret. Turn: 27 Action list: ['m u_2 e', 'dl 9 8 10 8', 'm u_5 s', 'dl 9 7 9 8']
+Super secret. Turn: 28 Action list: ['r 9 7']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 29 Action list: ['bcity u_2', 'm u_5 c', 'dl 9 8 9 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F94A790>]
+We're gonna save this endangered city!
+Super secret. Turn: 30 Action list: ['bw 9 9', 'bw 10 8', 'm u_2 w', 'dl 10 8 9 8', 'm u_5 e', 'dl 9 8 10 8']
+Super secret. Turn: 31 Action list: ['r 10 8', 'm u_5 w', 'dl 10 8 9 8', 'dx 9 8']
+Super secret. Turn: 32 Action list: ['m u_5 w', 'dl 10 8 9 8', 'dx 9 8']
+Super secret. Turn: 33 Action list: ['m u_5 w', 'dl 10 8 9 8', 'dx 9 8']
+Super secret. Turn: 34 Action list: ['m u_2 c', 'dl 9 8 9 8', 'dx 9 8', 'dx 9 8']
+Super secret. Turn: 35 Action list: ['m u_2 c', 'dl 9 8 9 8', 'dx 9 8', 'dx 9 8']
+Super secret. Turn: 36 Action list: ['m u_2 c', 'dl 9 8 9 8', 'dx 9 8', 'dx 9 8']
+Super secret. Turn: 37 Action list: ['m u_2 c', 'dl 9 8 9 8', 'dx 9 8', 'dx 9 8']
+Super secret. Turn: 38 Action list: ['r 9 7', 'm u_2 c', 'dl 9 8 9 8', 'dx 9 8']
+Super secret. Turn: 39 Action list: ['m u_2 c', 'dl 9 8 9 8', 'dx 9 8']
+Super secret. Turn: 40 Action list: ['r 9 9', 'm u_2 c', 'dl 9 8 9 8', 'dx 9 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F986400>]
+We're gonna save this endangered city!
+Super secret. Turn: 41 Action list: ['m u_2 n', 'dl 9 8 9 7', 'm u_8 n', 'dl 9 9 9 8']
+Super secret. Turn: 42 Action list: ['m u_2 s', 'dl 9 7 8 8']
+Super secret. Turn: 43 Action list: ['m u_2 s', 'dl 9 7 8 8', 'm u_8 w', 'dl 9 8 8 8']
+Super secret. Turn: 44 Action list: []
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F989AF0>]
+We're gonna save this endangered city!
+Super secret. Turn: 45 Action list: ['m u_2 w', 'dl 9 8 8 8', 'm u_8 n', 'dl 8 8 9 7']
+Super secret. Turn: 46 Action list: []
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97AB80>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97AB80>]
+We're gonna save this endangered city!
+Super secret. Turn: 47 Action list: ['m u_2 n', 'dl 8 8 9 7', 'm u_8 e', 'dl 8 7 9 7']
+Super secret. Turn: 48 Action list: ['r 9 7', 'm u_8 s', 'dl 9 7 8 8']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 49 Action list: ['bcity u_2']
+Super secret. Turn: 50 Action list: ['bw 9 9', 'bw 8 7', 'm u_2 s', 'dl 8 7 8 8', 'dx 8 8']
+Super secret. Turn: 51 Action list: ['r 8 7', 'm u_8 w', 'dl 9 8 8 8', 'm u_12 w', 'dl 9 9 8 9']
+Super secret. Turn: 52 Action list: ['m u_2 c', 'dl 8 8 8 8', 'dx 8 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F960F10>, <lux.game_objects.CityTile object at 0x000002621F960310>]
+We're gonna save this endangered city!
+Super secret. Turn: 53 Action list: ['m u_2 n', 'dl 8 8 8 7', 'm u_8 s', 'dl 9 8 8 9', 'm u_12 c', 'dl 8 9 8 9']
+Super secret. Turn: 54 Action list: ['m u_2 s', 'dl 8 7 8 9', 'm u_8 w', 'dl 9 9 8 9', 'dx 8 9']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F980550>, <lux.game_objects.CityTile object at 0x000002621F980610>]
+We're gonna save this endangered city!
+Super secret. Turn: 55 Action list: ['m u_8 w', 'dl 9 9 8 9', 'm u_12 n', 'dl 8 9 8 7']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F949A30>, <lux.game_objects.CityTile object at 0x000002621F949BE0>]
+We're gonna save this endangered city!
+Super secret. Turn: 56 Action list: ['m u_2 s', 'dl 8 8 8 9', 'dx 8 9', 'm u_12 n', 'dl 8 9 8 7']
+Super secret. Turn: 57 Action list: ['m u_8 w', 'dl 9 9 8 9']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F944220>, <lux.game_objects.CityTile object at 0x000002621F9440D0>]
+We're gonna save this endangered city!
+Super secret. Turn: 58 Action list: ['r 9 7', 'm u_2 c', 'dl 8 9 8 9', 'dx 8 9', 'm u_12 n', 'dl 8 8 8 7']
+Super secret. Turn: 59 Action list: ['m u_2 n', 'dl 8 9 8 8', 'm u_8 w', 'dl 9 9 8 9', 'dx 8 8']
+Super secret. Turn: 60 Action list: ['r 9 9', 'm u_8 w', 'dl 9 9 8 9', 'm u_12 s', 'dl 8 7 8 9']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 61 Action list: ['r 8 7', 'bcity u_2', 'm u_8 w', 'dl 9 9 8 9', 'm u_12 s', 'dl 8 7 8 9']
+Super secret. Turn: 62 Action list: ['bw 8 8', 'm u_2 n', 'dl 8 8 10 4', 'm u_12 n', 'dl 8 7 10 4']
+Super secret. Turn: 63 Action list: ['m u_2 n', 'dl 8 7 10 4', 'm u_8 e', 'dl 8 9 11 11', 'm u_14 n', 'dl 8 8 10 4']
+Super secret. Turn: 64 Action list: ['m u_2 n', 'dl 8 7 10 4', 'm u_8 e', 'dl 9 9 11 11', 'm u_12 n', 'dl 8 6 10 4', 'dx 8 6']
+Super secret. Turn: 65 Action list: ['m u_14 n', 'dl 8 7 10 4']
+Super secret. Turn: 66 Action list: ['m u_2 n', 'dl 8 6 10 4', 'm u_8 e', 'dl 10 9 11 11', 'm u_12 n', 'dl 8 5 10 4', 'm u_14 n', 'dl 8 7 10 4']
+Super secret. Turn: 67 Action list: []
+Super secret. Turn: 68 Action list: ['r 9 7', 'm u_2 n', 'dl 8 5 10 4', 'm u_8 s', 'dl 11 9 11 11', 'm u_12 e', 'dl 8 4 10 4', 'm u_14 n', 'dl 8 6 10 4']
+Super secret. Turn: 69 Action list: []
+Super secret. Turn: 70 Action list: ['r 9 9', 'm u_2 e', 'dl 8 4 10 4', 'm u_8 s', 'dl 11 10 11 11', 'm u_12 e', 'dl 9 4 10 4', 'm u_14 n', 'dl 8 5 10 4']
+Super secret. Turn: 71 Action list: ['bw 8 7']
+Super secret. Turn: 72 Action list: ['r 8 8', 'm u_18 n', 'dl 8 7 10 4']
+Super secret. Turn: 73 Action list: []
+Super secret. Turn: 74 Action list: ['m u_2 e', 'dl 9 4 10 4', 'm u_8 c', 'dl 11 11 11 11', 'dx 10 4']
+Super secret. Turn: 75 Action list: ['m u_2 e', 'dl 9 4 10 4', 'm u_8 c', 'dl 11 11 11 11', 'dx 10 4']
+Super secret. Turn: 76 Action list: ['m u_2 e', 'dl 9 4 10 4', 'm u_8 c', 'dl 11 11 11 11', 'dx 10 4']
+Super secret. Turn: 77 Action list: ['m u_2 e', 'dl 9 4 10 4', 'm u_8 c', 'dl 11 11 11 11', 'dx 10 4']
+Super secret. Turn: 78 Action list: ['m u_2 e', 'dl 9 4 10 4', 'm u_8 c', 'dl 11 11 11 11', 'dx 10 4']
+Super secret. Turn: 79 Action list: ['m u_2 e', 'dl 9 4 10 4', 'm u_8 c', 'dl 11 11 11 11', 'dx 10 4']
+Super secret. Turn: 80 Action list: ['r 9 9', 'm u_2 e', 'dl 9 4 10 4', 'm u_8 c', 'dl 11 11 11 11', 'dx 10 4']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 81 Action list: ['bcity u_2', 'm u_8 w', 'dl 11 11 10 11', 'm u_12 w', 'dl 10 4 9 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F949B80>]
+We're gonna save this endangered city!
+Super secret. Turn: 82 Action list: ['r 9 4', 'm u_2 e', 'dl 9 4 10 4', 'm u_12 w', 'dl 10 4 9 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F960310>]
+We're gonna save this endangered city!
+Super secret. Turn: 83 Action list: ['m u_8 n', 'dl 10 11 9 4', 'm u_12 e', 'dl 9 4 10 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F94A880>]
+We're gonna save this endangered city!
+Super secret. Turn: 84 Action list: ['m u_2 w', 'dl 10 4 9 4', 'm u_12 e', 'dl 9 4 10 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97E250>]
+We're gonna save this endangered city!
+Super secret. Turn: 85 Action list: ['m u_2 e', 'dl 9 4 10 4', 'm u_8 n', 'dl 10 10 9 4']
+Super secret. Turn: 86 Action list: ['m u_2 e', 'dl 9 4 10 4', 'm u_12 s', 'dl 10 4 10 5']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 87 Action list: ['bcity u_8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F954E80>, <lux.game_objects.CityTile object at 0x000002621F954310>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F954E80>, <lux.game_objects.CityTile object at 0x000002621F954310>]
+We're gonna save this endangered city!
+Super secret. Turn: 88 Action list: ['r 10 9', 'm u_2 s', 'dl 10 4 10 9', 'm u_8 e', 'dl 10 9 11 11', 'm u_12 s', 'dl 10 5 10 9']
+Super secret. Turn: 89 Action list: []
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9495B0>, <lux.game_objects.CityTile object at 0x000002621F949970>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9495B0>, <lux.game_objects.CityTile object at 0x000002621F949970>]
+We're gonna save this endangered city!
+Super secret. Turn: 90 Action list: ['r 9 9', 'm u_2 s', 'dl 10 5 10 9', 'm u_8 s', 'dl 11 9 11 11', 'm u_12 s', 'dl 10 6 10 9']
+Super secret. Turn: 91 Action list: []
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F94A7F0>, <lux.game_objects.CityTile object at 0x000002621F94AE50>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F94A7F0>, <lux.game_objects.CityTile object at 0x000002621F94AE50>]
+We're gonna save this endangered city!
+Super secret. Turn: 92 Action list: ['r 9 4', 'm u_2 s', 'dl 10 6 10 9', 'm u_8 s', 'dl 11 10 11 11', 'm u_12 s', 'dl 10 7 10 9']
+Super secret. Turn: 93 Action list: []
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9447F0>, <lux.game_objects.CityTile object at 0x000002621F944CA0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9447F0>, <lux.game_objects.CityTile object at 0x000002621F944CA0>]
+We're gonna save this endangered city!
+Super secret. Turn: 94 Action list: ['m u_2 s', 'dl 10 7 10 9', 'm u_8 c', 'dl 11 11 11 11', 'm u_12 s', 'dl 10 8 10 9']
+Super secret. Turn: 95 Action list: ['m u_8 w', 'dl 11 11 10 11', 'm u_12 e', 'dl 10 9 11 11']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 96 Action list: ['bcity u_2']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97EEE0>, <lux.game_objects.CityTile object at 0x000002621F97EF70>, <lux.game_objects.CityTile object at 0x000002621F9637C0>]
+We're gonna save this endangered city!
+Super secret. Turn: 97 Action list: ['bw 10 8', 'm u_2 n', 'dl 10 8 10 4', 'm u_8 n', 'dl 10 11 10 9', 'm u_12 s', 'dl 11 9 11 11']
+Super secret. Turn: 98 Action list: ['r 10 9', 'm u_24 n', 'dl 10 8 10 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F946D00>, <lux.game_objects.CityTile object at 0x000002621F946880>, <lux.game_objects.CityTile object at 0x000002621F946A30>]
+We're gonna save this endangered city!
+Super secret. Turn: 99 Action list: ['m u_2 n', 'dl 10 7 10 4', 'm u_8 n', 'dl 10 10 10 9', 'm u_12 s', 'dl 11 10 11 11', 'm u_24 n', 'dl 10 8 10 4']
+Super secret. Turn: 100 Action list: ['r 9 9', 'm u_8 e', 'dl 10 9 11 11']
+Super secret. Turn: 101 Action list: ['m u_2 n', 'dl 10 6 10 4', 'm u_12 c', 'dl 11 11 11 11', 'm u_24 n', 'dl 10 7 10 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F944D60>, <lux.game_objects.CityTile object at 0x000002621F944BB0>, <lux.game_objects.CityTile object at 0x000002621F9447C0>]
+We're gonna save this endangered city!
+Super secret. Turn: 102 Action list: ['r 9 4', 'm u_8 s', 'dl 11 9 11 11', 'dx 11 10']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9632E0>, <lux.game_objects.CityTile object at 0x000002621F9634C0>, <lux.game_objects.CityTile object at 0x000002621F981E50>]
+We're gonna save this endangered city!
+Super secret. Turn: 103 Action list: ['m u_2 n', 'dl 10 5 10 4', 'm u_12 n', 'dl 11 11 10 9', 'm u_24 n', 'dl 10 6 10 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F954FD0>, <lux.game_objects.CityTile object at 0x000002621F954F70>, <lux.game_objects.CityTile object at 0x000002621F9547F0>]
+We're gonna save this endangered city!
+Super secret. Turn: 104 Action list: ['m u_8 s', 'dl 11 10 11 11', 'm u_12 n', 'dl 11 11 10 9']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F960D90>, <lux.game_objects.CityTile object at 0x000002621F9602B0>, <lux.game_objects.CityTile object at 0x000002621F9604C0>]
+We're gonna save this endangered city!
+Super secret. Turn: 105 Action list: ['m u_2 s', 'dl 10 4 10 8', 'm u_24 n', 'dl 10 5 10 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F949B80>, <lux.game_objects.CityTile object at 0x000002621F949C10>, <lux.game_objects.CityTile object at 0x000002621F949AC0>]
+We're gonna save this endangered city!
+Super secret. Turn: 106 Action list: ['m u_8 c', 'dl 11 11 11 11', 'm u_12 n', 'dl 11 10 10 9']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F946F40>, <lux.game_objects.CityTile object at 0x000002621F946220>, <lux.game_objects.CityTile object at 0x000002621F9469D0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F946F40>, <lux.game_objects.CityTile object at 0x000002621F946220>, <lux.game_objects.CityTile object at 0x000002621F9469D0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F946F40>, <lux.game_objects.CityTile object at 0x000002621F946220>, <lux.game_objects.CityTile object at 0x000002621F9469D0>]
+We're gonna save this endangered city!
+Super secret. Turn: 107 Action list: ['r 10 8', 'm u_2 s', 'dl 10 5 10 8', 'm u_8 n', 'dl 11 11 10 9', 'm u_24 s', 'dl 10 4 10 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97ED90>, <lux.game_objects.CityTile object at 0x000002621F97E7C0>, <lux.game_objects.CityTile object at 0x000002621F97E760>]
+We're gonna save this endangered city!
+Super secret. Turn: 108 Action list: ['r 10 9', 'm u_12 w', 'dl 11 9 10 9']
+I'm gonna build a city because I have full inventory + I can build!
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 109 Action list: ['bcity u_2', 'm u_8 n', 'dl 11 10 11 9', 'dx 11 9', 'bcity u_24']
+Super secret. Turn: 110 Action list: ['bw 9 9', 'bw 10 6', 'bw 10 5', 'm u_2 n', 'dl 10 6 10 4', 'm u_12 e', 'dl 10 9 11 11', 'm u_24 n', 'dl 10 5 10 4']
+Super secret. Turn: 111 Action list: ['m u_8 s', 'dl 11 9 11 11', 'm u_12 e', 'dl 10 9 11 11', 'm u_28 e', 'dl 9 9 11 11']
+Super secret. Turn: 112 Action list: ['bw 9 4', 'm u_28 e', 'dl 10 9 11 11']
+Super secret. Turn: 113 Action list: ['m u_30 n', 'dl 9 4 10 3']
+Super secret. Turn: 114 Action list: ['m u_24 n', 'dl 10 4 10 3']
+Super secret. Turn: 115 Action list: ['m u_8 s', 'dl 11 10 11 11']
+Super secret. Turn: 116 Action list: []
+Super secret. Turn: 117 Action list: ['bw 10 8', 'm u_30 e', 'dl 9 3 10 3']
+Super secret. Turn: 118 Action list: ['r 10 9', 'm u_24 c', 'dl 10 3 10 3', 'dx 10 3', 'm u_32 e', 'dl 10 8 11 11']
+Super secret. Turn: 119 Action list: ['m u_8 c', 'dl 11 11 11 11', 'm u_24 c', 'dl 10 3 10 3', 'dx 10 3']
+Super secret. Turn: 120 Action list: ['bw 9 9', 'm u_8 c', 'dl 11 11 11 11', 'm u_24 c', 'dl 10 3 10 3', 'dx 10 3']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97A640>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97A640>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97A640>]
+We're gonna save this endangered city!
+Super secret. Turn: 121 Action list: ['m u_8 n', 'dl 11 11 9 4', 'm u_24 s', 'dl 10 3 9 4', 'm u_30 s', 'dl 9 3 9 4', 'm u_33 e', 'dl 9 9 11 11']
+Super secret. Turn: 122 Action list: ['r 9 4', 'm u_30 n', 'dl 9 4 10 3', 'm u_33 e', 'dl 10 9 11 11']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98D940>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98D940>]
+We're gonna save this endangered city!
+Super secret. Turn: 123 Action list: ['m u_8 n', 'dl 11 10 9 4', 'm u_24 w', 'dl 10 4 9 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F94A5B0>]
+We're gonna save this endangered city!
+Super secret. Turn: 124 Action list: ['m u_8 n', 'dl 11 10 9 4', 'm u_24 n', 'dl 9 4 10 3', 'm u_30 e', 'dl 9 3 10 3', 'm u_33 s', 'dl 11 9 11 11']
+Super secret. Turn: 125 Action list: []
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F954700>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F954700>]
+We're gonna save this endangered city!
+Super secret. Turn: 126 Action list: ['m u_8 n', 'dl 11 9 9 4', 'm u_24 e', 'dl 9 3 10 3', 'm u_30 s', 'dl 10 3 9 4', 'm u_33 s', 'dl 11 10 11 11']
+Super secret. Turn: 127 Action list: ['r 10 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9497F0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9497F0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9497F0>]
+We're gonna save this endangered city!
+Super secret. Turn: 128 Action list: ['r 10 9', 'm u_8 n', 'dl 11 8 9 4', 'm u_24 s', 'dl 10 3 9 4', 'm u_30 w', 'dl 10 4 9 4', 'm u_33 c', 'dl 11 11 11 11']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F980820>, <lux.game_objects.CityTile object at 0x000002621F980730>, <lux.game_objects.CityTile object at 0x000002621F980760>]
+We're gonna save this endangered city!
+Super secret. Turn: 129 Action list: ['m u_30 n', 'dl 9 4 10 3', 'm u_33 n', 'dl 11 11 10 9']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97A7C0>, <lux.game_objects.CityTile object at 0x000002621F97AD00>, <lux.game_objects.CityTile object at 0x000002621F97AFD0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97A7C0>, <lux.game_objects.CityTile object at 0x000002621F97AD00>, <lux.game_objects.CityTile object at 0x000002621F97AFD0>]
+We're gonna save this endangered city!
+Super secret. Turn: 130 Action list: ['r 9 9', 'm u_8 s', 'dl 11 7 10 8', 'm u_24 s', 'dl 10 4 10 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9844F0>, <lux.game_objects.CityTile object at 0x000002621F984DF0>, <lux.game_objects.CityTile object at 0x000002621F984F70>]
+We're gonna save this endangered city!
+Super secret. Turn: 131 Action list: ['m u_30 e', 'dl 9 3 10 3', 'm u_33 n', 'dl 11 10 10 9']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F960E20>, <lux.game_objects.CityTile object at 0x000002621F960DC0>, <lux.game_objects.CityTile object at 0x000002621F9604F0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F960E20>, <lux.game_objects.CityTile object at 0x000002621F960DC0>, <lux.game_objects.CityTile object at 0x000002621F9604F0>]
+We're gonna save this endangered city!
+Super secret. Turn: 132 Action list: ['r 9 4', 'm u_8 w', 'dl 11 8 10 8', 'm u_24 s', 'dl 10 5 10 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9469D0>, <lux.game_objects.CityTile object at 0x000002621F946D00>, <lux.game_objects.CityTile object at 0x000002621F946EB0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9469D0>, <lux.game_objects.CityTile object at 0x000002621F946D00>, <lux.game_objects.CityTile object at 0x000002621F946EB0>]
+We're gonna save this endangered city!
+Super secret. Turn: 133 Action list: ['m u_8 e', 'dl 10 8 11 11', 'm u_30 s', 'dl 10 3 10 8', 'm u_33 w', 'dl 11 9 10 9']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F985B80>, <lux.game_objects.CityTile object at 0x000002621F985AC0>, <lux.game_objects.CityTile object at 0x000002621F954640>]
+We're gonna save this endangered city!
+Super secret. Turn: 134 Action list: ['m u_24 s', 'dl 10 6 10 8', 'm u_33 e', 'dl 10 9 11 11']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98BA60>, <lux.game_objects.CityTile object at 0x000002621F98B940>, <lux.game_objects.CityTile object at 0x000002621F98BAC0>]
+We're gonna save this endangered city!
+Super secret. Turn: 135 Action list: ['m u_8 s', 'dl 11 8 11 11', 'm u_30 s', 'dl 10 4 10 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97ECD0>, <lux.game_objects.CityTile object at 0x000002621F97E640>, <lux.game_objects.CityTile object at 0x000002621F98E2E0>]
+We're gonna save this endangered city!
+Super secret. Turn: 136 Action list: ['m u_8 s', 'dl 11 8 11 11', 'm u_24 s', 'dl 10 7 10 8', 'm u_33 s', 'dl 11 9 11 11']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9448E0>, <lux.game_objects.CityTile object at 0x000002621F944160>, <lux.game_objects.CityTile object at 0x000002621F944100>]
+We're gonna save this endangered city!
+Super secret. Turn: 137 Action list: ['r 10 8', 'm u_24 e', 'dl 10 8 11 11', 'm u_30 s', 'dl 10 5 10 8']
+Super secret. Turn: 138 Action list: ['r 10 9', 'm u_8 s', 'dl 11 9 11 11', 'm u_33 s', 'dl 11 10 11 11']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F949B20>, <lux.game_objects.CityTile object at 0x000002621F9492B0>, <lux.game_objects.CityTile object at 0x000002621F949E50>]
+We're gonna save this endangered city!
+Super secret. Turn: 139 Action list: ['m u_24 s', 'dl 11 8 11 11', 'm u_30 s', 'dl 10 6 10 8']
+Super secret. Turn: 140 Action list: ['r 9 9', 'm u_8 s', 'dl 11 10 11 11', 'dx 11 11']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9607F0>, <lux.game_objects.CityTile object at 0x000002621F960040>, <lux.game_objects.CityTile object at 0x000002621F9609A0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9607F0>, <lux.game_objects.CityTile object at 0x000002621F960040>, <lux.game_objects.CityTile object at 0x000002621F9609A0>]
+We're gonna save this endangered city!
+Super secret. Turn: 141 Action list: ['m u_8 s', 'dl 11 10 11 11', 'm u_24 s', 'dl 11 9 11 11', 'm u_30 s', 'dl 10 7 10 8', 'dx 11 10']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F946910>, <lux.game_objects.CityTile object at 0x000002621F9469D0>, <lux.game_objects.CityTile object at 0x000002621F946D00>]
+We're gonna save this endangered city!
+Super secret. Turn: 142 Action list: ['r 9 4', 'm u_8 s', 'dl 11 10 11 11', 'm u_24 s', 'dl 11 9 11 11', 'm u_30 e', 'dl 10 8 11 11', 'dx 11 10']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98CA60>, <lux.game_objects.CityTile object at 0x000002621F98C9D0>, <lux.game_objects.CityTile object at 0x000002621F98CA90>]
+We're gonna save this endangered city!
+Super secret. Turn: 143 Action list: ['m u_8 n', 'dl 11 10 11 4', 'm u_24 n', 'dl 11 9 11 4', 'm u_33 n', 'dl 11 11 10 9']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F954130>, <lux.game_objects.CityTile object at 0x000002621F954E50>, <lux.game_objects.CityTile object at 0x000002621F954C40>]
+We're gonna save this endangered city!
+Super secret. Turn: 144 Action list: ['m u_8 n', 'dl 11 10 11 4', 'm u_24 n', 'dl 11 9 11 4', 'm u_30 n', 'dl 11 8 11 4', 'm u_33 n', 'dl 11 11 10 9']
+Super secret. Turn: 145 Action list: []
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98C340>, <lux.game_objects.CityTile object at 0x000002621F98C1F0>, <lux.game_objects.CityTile object at 0x000002621F98C2B0>]
+We're gonna save this endangered city!
+Super secret. Turn: 146 Action list: ['m u_8 n', 'dl 11 9 11 4', 'm u_24 n', 'dl 11 8 11 4', 'm u_30 n', 'dl 11 7 11 4', 'm u_33 n', 'dl 11 10 10 9']
+Super secret. Turn: 147 Action list: ['r 10 8']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F949370>, <lux.game_objects.CityTile object at 0x000002621F949F10>, <lux.game_objects.CityTile object at 0x000002621F949EE0>]
+We're gonna save this endangered city!
+Super secret. Turn: 148 Action list: ['r 10 9', 'm u_8 n', 'dl 11 8 11 4', 'm u_24 n', 'dl 11 7 11 4', 'm u_30 n', 'dl 11 6 11 4', 'm u_33 w', 'dl 11 9 10 9']
+Super secret. Turn: 149 Action list: ['m u_33 n', 'dl 10 9 10 3']
+Super secret. Turn: 150 Action list: ['r 9 9', 'm u_8 n', 'dl 11 7 11 4', 'm u_24 n', 'dl 11 6 11 4', 'm u_30 n', 'dl 11 5 11 4', 'm u_33 n', 'dl 10 8 10 3']
+Super secret. Turn: 151 Action list: []
+Super secret. Turn: 152 Action list: ['bw 9 4']
+Super secret. Turn: 153 Action list: ['m u_34 n', 'dl 9 4 10 3']
+Super secret. Turn: 154 Action list: ['m u_8 n', 'dl 11 6 11 4', 'm u_24 n', 'dl 11 5 11 4', 'dx 11 4']
+Super secret. Turn: 155 Action list: ['m u_8 n', 'dl 11 6 11 4', 'm u_24 n', 'dl 11 5 11 4', 'dx 11 4']
+Super secret. Turn: 156 Action list: ['m u_8 n', 'dl 11 6 11 4', 'm u_24 n', 'dl 11 5 11 4', 'dx 11 4']
+Super secret. Turn: 157 Action list: ['r 10 8', 'm u_8 n', 'dl 11 6 11 4', 'm u_24 n', 'dl 11 5 11 4', 'dx 11 4', 'm u_34 e', 'dl 9 3 10 3']
+Super secret. Turn: 158 Action list: ['m u_8 n', 'dl 11 6 11 4', 'm u_24 n', 'dl 11 5 11 4', 'dx 11 4']
+Super secret. Turn: 159 Action list: ['m u_8 n', 'dl 11 6 11 4', 'm u_24 n', 'dl 11 5 11 4', 'dx 11 4']
+Super secret. Turn: 160 Action list: ['m u_8 n', 'dl 11 6 11 4', 'm u_24 n', 'dl 11 5 11 4', 'dx 11 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98EE80>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98EE80>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98EE80>]
+We're gonna save this endangered city!
+Super secret. Turn: 161 Action list: ['m u_8 n', 'dl 11 6 11 4', 'm u_24 n', 'dl 11 5 9 4', 'm u_30 w', 'dl 11 4 9 4', 'dx 10 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F944640>]
+We're gonna save this endangered city!
+Super secret. Turn: 162 Action list: ['r 9 4', 'm u_34 s', 'dl 10 3 9 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F986610>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F986610>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F986610>]
+We're gonna save this endangered city!
+Super secret. Turn: 163 Action list: ['m u_8 n', 'dl 11 5 11 4', 'm u_24 w', 'dl 11 4 9 4', 'm u_30 w', 'dl 10 4 9 4', 'dx 10 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F986E20>]
+We're gonna save this endangered city!
+Super secret. Turn: 164 Action list: ['m u_30 n', 'dl 9 4 10 3', 'm u_34 s', 'dl 10 3 9 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98C250>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98C250>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98C250>]
+We're gonna save this endangered city!
+Super secret. Turn: 165 Action list: ['m u_8 w', 'dl 11 4 9 4', 'm u_24 w', 'dl 10 4 9 4', 'dx 10 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F94A4F0>]
+We're gonna save this endangered city!
+Super secret. Turn: 166 Action list: ['m u_24 n', 'dl 9 4 10 3', 'm u_30 e', 'dl 9 3 10 3', 'm u_34 s', 'dl 10 3 9 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9494F0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9494F0>]
+We're gonna save this endangered city!
+Super secret. Turn: 167 Action list: ['m u_8 w', 'dl 10 4 9 4', 'm u_24 n', 'dl 9 4 10 3', 'm u_30 e', 'dl 9 3 10 3', 'm u_34 s', 'dl 10 3 9 4']
+Super secret. Turn: 168 Action list: ['m u_8 e', 'dl 9 4 11 4']
+I'm gonna build a city because I have full inventory + I can build!
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 169 Action list: ['m u_8 e', 'dl 9 4 11 4', 'm u_24 e', 'dl 9 3 11 3', 'bcity u_30', 'bcity u_34']
+Super secret. Turn: 170 Action list: ['r 10 3', 'r 10 4', 'm u_8 e', 'dl 9 4 11 4', 'm u_24 e', 'dl 9 3 11 3', 'm u_30 e', 'dl 10 3 11 3', 'm u_34 e', 'dl 10 4 11 4']
+Super secret. Turn: 171 Action list: ['m u_8 e', 'dl 10 4 11 4', 'm u_24 e', 'dl 10 3 11 3']
+Super secret. Turn: 172 Action list: ['r 9 4', 'm u_8 e', 'dl 10 4 11 4', 'm u_24 e', 'dl 10 3 11 3', 'dx 11 3', 'dx 11 4']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F944730>, <lux.game_objects.CityTile object at 0x000002621F944D60>, <lux.game_objects.CityTile object at 0x000002621F944910>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F944730>, <lux.game_objects.CityTile object at 0x000002621F944D60>, <lux.game_objects.CityTile object at 0x000002621F944910>]
+We're gonna save this endangered city!
+Super secret. Turn: 173 Action list: ['m u_8 e', 'dl 10 4 11 4', 'm u_24 e', 'dl 10 3 11 3', 'm u_30 w', 'dl 11 3 10 3', 'm u_34 w', 'dl 11 4 10 4']
+Super secret. Turn: 174 Action list: ['m u_30 e', 'dl 10 3 11 3', 'm u_34 e', 'dl 10 4 11 4']
+Super secret. Turn: 175 Action list: ['m u_8 c', 'dl 11 4 11 4', 'm u_24 c', 'dl 11 3 11 3', 'dx 11 3', 'dx 11 4']
+Super secret. Turn: 176 Action list: ['m u_8 s', 'dl 11 4 11 5', 'm u_24 n', 'dl 11 3 11 2', 'm u_30 e', 'dl 10 3 11 3', 'm u_34 e', 'dl 10 4 11 4']
+Super secret. Turn: 177 Action list: []
+I'm gonna build a city because I have full inventory + I can build!
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 178 Action list: ['bcity u_8', 'bcity u_24', 'm u_30 c', 'dl 11 3 11 3', 'dx 11 3']
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Super secret. Turn: 179 Action list: ['bw 11 5', 'bw 11 2']
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 180 Action list: ['r 10 3', 'r 10 4', 'r 11 2']
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 181 Action list: []
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 182 Action list: ['r 9 4']
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 183 Action list: []
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 184 Action list: []
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 185 Action list: []
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 186 Action list: []
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 187 Action list: []
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 188 Action list: []
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 189 Action list: ['r 11 5']
+Well.. Shit. I'm unit, u_8 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_24 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_35 Apparently I can't find any resources.
+Super secret. Turn: 190 Action list: ['r 10 3', 'r 10 4', 'r 11 2']
+Super secret. Turn: 191 Action list: ['m u_30 n', 'dl 11 3 11 0', 'm u_34 n', 'dl 11 4 11 0']
+Super secret. Turn: 192 Action list: ['bw 9 4']
+Super secret. Turn: 193 Action list: ['m u_36 n', 'dl 9 4 7 1']
+Super secret. Turn: 194 Action list: []
+Super secret. Turn: 195 Action list: ['m u_30 n', 'dl 11 2 11 0', 'm u_34 n', 'dl 11 3 11 0']
+Super secret. Turn: 196 Action list: []
+Super secret. Turn: 197 Action list: []
+Super secret. Turn: 198 Action list: []
+Super secret. Turn: 199 Action list: ['m u_30 n', 'dl 11 1 11 0', 'm u_34 n', 'dl 11 2 11 0']
+Super secret. Turn: 200 Action list: ['bw 10 3', 'bw 10 4']
+Super secret. Turn: 201 Action list: ['r 10 4', 'm u_37 n', 'dl 10 3 11 0']
+Super secret. Turn: 202 Action list: ['r 9 4']
+Super secret. Turn: 203 Action list: ['m u_30 c', 'dl 11 0 11 0', 'dx 11 0', 'm u_37 n', 'dl 10 2 11 0']
+Super secret. Turn: 204 Action list: ['m u_30 c', 'dl 11 0 11 0', 'dx 11 0']
+Super secret. Turn: 205 Action list: ['m u_30 c', 'dl 11 0 11 0', 'dx 11 0', 'm u_37 n', 'dl 10 1 11 0']
+Super secret. Turn: 206 Action list: ['m u_30 c', 'dl 11 0 11 0', 'dx 11 0']
+Super secret. Turn: 207 Action list: ['m u_30 c', 'dl 11 0 11 0', 'dx 11 0', 'dx 11 0']
+Super secret. Turn: 208 Action list: ['m u_30 c', 'dl 11 0 11 0', 'dx 11 0', 'dx 11 0']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F944280>, <lux.game_objects.CityTile object at 0x000002621F98D3A0>, <lux.game_objects.CityTile object at 0x000002621F94A9A0>]
+We're gonna save this endangered city!
+Super secret. Turn: 209 Action list: ['m u_30 s', 'dl 11 0 10 3', 'm u_34 n', 'dl 11 1 11 0', 'dx 11 0']
+Super secret. Turn: 210 Action list: ['r 10 3', 'm u_37 e', 'dl 10 0 11 0']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97ADC0>, <lux.game_objects.CityTile object at 0x000002621F6417C0>, <lux.game_objects.CityTile object at 0x000002621F97EB20>]
+We're gonna save this endangered city!
+Super secret. Turn: 211 Action list: ['r 10 4', 'm u_30 s', 'dl 11 1 10 3', 'm u_34 c', 'dl 11 0 11 0', 'dx 11 0']
+Super secret. Turn: 212 Action list: ['r 9 4', 'm u_34 c', 'dl 11 0 11 0', 'dx 11 0']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F6417C0>, <lux.game_objects.CityTile object at 0x000002621F949C10>, <lux.game_objects.CityTile object at 0x000002621F9492E0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F6417C0>, <lux.game_objects.CityTile object at 0x000002621F949C10>, <lux.game_objects.CityTile object at 0x000002621F9492E0>]
+We're gonna save this endangered city!
+Super secret. Turn: 213 Action list: ['m u_30 s', 'dl 11 2 10 3', 'm u_34 s', 'dl 11 0 10 3', 'm u_37 e', 'dl 10 0 11 0']
+Super secret. Turn: 214 Action list: []
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F94AEB0>, <lux.game_objects.CityTile object at 0x000002621F94AE50>, <lux.game_objects.CityTile object at 0x000002621F94AA00>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F94AEB0>, <lux.game_objects.CityTile object at 0x000002621F94AE50>, <lux.game_objects.CityTile object at 0x000002621F94AA00>]
+We're gonna save this endangered city!
+Super secret. Turn: 215 Action list: ['m u_30 w', 'dl 11 3 10 3', 'm u_34 s', 'dl 11 1 10 3', 'm u_37 c', 'dl 11 0 11 0']
+Super secret. Turn: 216 Action list: ['m u_30 n', 'dl 10 3 11 0', 'm u_37 c', 'dl 11 0 11 0']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 217 Action list: ['bcity u_34', 'm u_37 c', 'dl 11 0 11 0']
+Super secret. Turn: 218 Action list: ['bw 11 2', 'm u_30 n', 'dl 10 2 11 0', 'm u_34 n', 'dl 11 2 11 0', 'm u_37 c', 'dl 11 0 11 0']
+Super secret. Turn: 219 Action list: ['m u_37 c', 'dl 11 0 11 0', 'm u_40 n', 'dl 11 2 11 0']
+Super secret. Turn: 220 Action list: ['r 10 3', 'm u_30 n', 'dl 10 1 11 0', 'm u_34 n', 'dl 11 1 11 0', 'dx 11 0', 'm u_40 n', 'dl 11 2 11 0']
+Super secret. Turn: 221 Action list: ['r 10 4', 'm u_34 n', 'dl 11 1 11 0', 'dx 11 0', 'm u_40 n', 'dl 11 2 11 0']
+Super secret. Turn: 222 Action list: ['r 9 4', 'm u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'dx 11 0', 'm u_40 n', 'dl 11 2 11 0']
+Super secret. Turn: 223 Action list: ['m u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'dx 11 0', 'm u_40 n', 'dl 11 2 11 0']
+Super secret. Turn: 224 Action list: ['m u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'dx 11 0', 'm u_40 n', 'dl 11 2 11 0']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98BC40>]
+We're gonna save this endangered city!
+Super secret. Turn: 225 Action list: ['m u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'm u_37 s', 'dl 11 0 11 2', 'dx 11 1']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F982430>]
+We're gonna save this endangered city!
+Super secret. Turn: 226 Action list: ['m u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'm u_37 s', 'dl 11 0 11 2', 'dx 11 1']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9546A0>]
+We're gonna save this endangered city!
+Super secret. Turn: 227 Action list: ['m u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'm u_37 s', 'dl 11 0 11 2', 'dx 11 1']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F9857C0>]
+We're gonna save this endangered city!
+Super secret. Turn: 228 Action list: ['r 11 2', 'm u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'm u_37 s', 'dl 11 0 11 2', 'dx 11 1']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97AEE0>]
+We're gonna save this endangered city!
+Super secret. Turn: 229 Action list: ['m u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'm u_37 s', 'dl 11 0 11 2', 'dx 11 1']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F944DC0>]
+We're gonna save this endangered city!
+Super secret. Turn: 230 Action list: ['r 10 3', 'm u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'm u_37 s', 'dl 11 0 11 2', 'dx 11 1']
+Super secret. Turn: 231 Action list: ['r 10 4', 'm u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'dx 11 0']
+Super secret. Turn: 232 Action list: ['r 9 4', 'm u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'dx 11 0']
+Super secret. Turn: 233 Action list: ['m u_30 e', 'dl 10 0 11 0', 'dx 11 0', 'dx 11 0']
+Super secret. Turn: 234 Action list: ['m u_30 w', 'dl 10 0 7 0', 'm u_34 w', 'dl 11 1 7 1', 'm u_37 w', 'dl 11 0 7 0']
+Super secret. Turn: 235 Action list: []
+Super secret. Turn: 236 Action list: []
+Super secret. Turn: 237 Action list: []
+Super secret. Turn: 238 Action list: ['m u_30 w', 'dl 9 0 7 0', 'm u_34 w', 'dl 10 1 7 1', 'm u_37 w', 'dl 10 0 7 0']
+Super secret. Turn: 239 Action list: []
+Super secret. Turn: 240 Action list: ['r 10 3']
+Super secret. Turn: 241 Action list: ['r 10 4']
+Super secret. Turn: 242 Action list: ['r 9 4', 'm u_30 w', 'dl 8 0 7 0', 'm u_34 w', 'dl 9 1 7 1', 'm u_37 w', 'dl 9 0 7 0']
+Super secret. Turn: 243 Action list: ['m u_30 w', 'dl 8 0 7 0', 'm u_37 w', 'dl 9 0 7 0']
+Super secret. Turn: 244 Action list: ['m u_30 w', 'dl 8 0 7 0', 'm u_34 w', 'dl 8 1 7 1', 'm u_37 w', 'dl 9 0 7 0']
+Super secret. Turn: 245 Action list: ['m u_30 w', 'dl 8 0 7 0', 'm u_34 w', 'dl 8 1 7 1', 'm u_37 w', 'dl 9 0 7 0']
+Super secret. Turn: 246 Action list: ['m u_30 w', 'dl 8 0 7 0', 'm u_34 w', 'dl 8 1 7 1', 'm u_37 w', 'dl 9 0 7 0']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98E700>, <lux.game_objects.CityTile object at 0x000002621F98E970>, <lux.game_objects.CityTile object at 0x000002621F98E910>]
+We're gonna save this endangered city!
+Super secret. Turn: 247 Action list: ['m u_30 e', 'dl 8 0 10 3', 'm u_34 w', 'dl 8 1 7 1', 'm u_37 w', 'dl 9 0 7 0']
+Super secret. Turn: 248 Action list: ['m u_34 w', 'dl 8 1 7 1']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97AD00>, <lux.game_objects.CityTile object at 0x000002621F97A970>, <lux.game_objects.CityTile object at 0x000002621F97A5B0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97AD00>, <lux.game_objects.CityTile object at 0x000002621F97A970>, <lux.game_objects.CityTile object at 0x000002621F97A5B0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97AD00>, <lux.game_objects.CityTile object at 0x000002621F97A970>, <lux.game_objects.CityTile object at 0x000002621F97A5B0>]
+We're gonna save this endangered city!
+Super secret. Turn: 249 Action list: ['m u_30 e', 'dl 9 0 10 3', 'm u_34 e', 'dl 8 1 10 3', 'm u_37 e', 'dl 8 0 10 3']
+Super secret. Turn: 250 Action list: ['r 10 3']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98B2E0>, <lux.game_objects.CityTile object at 0x000002621F98BA60>, <lux.game_objects.CityTile object at 0x000002621F98B7F0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98B2E0>, <lux.game_objects.CityTile object at 0x000002621F98BA60>, <lux.game_objects.CityTile object at 0x000002621F98B7F0>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98B2E0>, <lux.game_objects.CityTile object at 0x000002621F98BA60>, <lux.game_objects.CityTile object at 0x000002621F98B7F0>]
+We're gonna save this endangered city!
+Super secret. Turn: 251 Action list: ['r 10 4', 'm u_30 s', 'dl 10 0 10 3', 'dx 10 1', 'm u_37 e', 'dl 9 0 10 3']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F97E130>, <lux.game_objects.CityTile object at 0x000002621F97E0D0>, <lux.game_objects.CityTile object at 0x000002621F97E610>]
+We're gonna save this endangered city!
+Super secret. Turn: 252 Action list: ['r 9 4', 'm u_34 e', 'dl 9 1 10 3']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98DEB0>, <lux.game_objects.CityTile object at 0x000002621F98DFA0>, <lux.game_objects.CityTile object at 0x000002621F98D970>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98DEB0>, <lux.game_objects.CityTile object at 0x000002621F98DFA0>, <lux.game_objects.CityTile object at 0x000002621F98D970>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98DEB0>, <lux.game_objects.CityTile object at 0x000002621F98DFA0>, <lux.game_objects.CityTile object at 0x000002621F98D970>]
+We're gonna save this endangered city!
+Super secret. Turn: 253 Action list: ['m u_30 s', 'dl 10 1 10 3', 'm u_34 e', 'dl 9 1 10 3', 'dx 10 1']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98D430>, <lux.game_objects.CityTile object at 0x000002621F98D6D0>, <lux.game_objects.CityTile object at 0x000002621F946790>]
+We're gonna save this endangered city!
+Super secret. Turn: 254 Action list: ['m u_37 s', 'dl 10 0 10 3']
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98CF10>, <lux.game_objects.CityTile object at 0x000002621F98C6A0>, <lux.game_objects.CityTile object at 0x000002621F98CF40>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98CF10>, <lux.game_objects.CityTile object at 0x000002621F98C6A0>, <lux.game_objects.CityTile object at 0x000002621F98CF40>]
+We're gonna save this endangered city!
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x000002621F98CF10>, <lux.game_objects.CityTile object at 0x000002621F98C6A0>, <lux.game_objects.CityTile object at 0x000002621F98CF40>]
+We're gonna save this endangered city!
+Super secret. Turn: 255 Action list: ['m u_30 s', 'dl 10 2 10 3', 'm u_34 s', 'dl 10 1 10 3', 'm u_37 s', 'dl 10 0 10 3']
+Super secret. Turn: 256 Action list: ['m u_30 n', 'dl 10 3 7 1']
+I'm gonna build a city because I have full inventory + I can build!
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 257 Action list: ['m u_30 n', 'dl 10 3 7 1', 'bcity u_34', 'bcity u_37']
+Super secret. Turn: 258 Action list: ['bw 10 2', 'bw 10 1', 'm u_30 n', 'dl 10 3 7 1', 'm u_34 n', 'dl 10 2 7 1', 'm u_37 w', 'dl 10 1 7 1']
+Super secret. Turn: 259 Action list: ['m u_30 n', 'dl 10 2 7 1', 'm u_34 w', 'dl 10 1 7 1', 'm u_45 n', 'dl 10 2 7 1', 'dx 9 1']
+Super secret. Turn: 260 Action list: ['r 10 3', 'm u_30 w', 'dl 10 1 7 1', 'dx 9 1', 'm u_37 w', 'dl 9 1 7 1', 'dx 9 1', 'dx 9 1']
+Super secret. Turn: 261 Action list: ['r 10 4', 'm u_30 w', 'dl 10 1 7 1', 'dx 9 1', 'm u_37 w', 'dl 9 1 7 1', 'dx 9 1', 'dx 9 1']
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_37 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Super secret. Turn: 262 Action list: ['r 9 4']
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_37 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Super secret. Turn: 263 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_37 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Super secret. Turn: 264 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_37 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Super secret. Turn: 265 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_37 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Super secret. Turn: 266 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_37 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Super secret. Turn: 267 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_37 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Super secret. Turn: 268 Action list: ['r 10 2', 'r 10 1']
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_37 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Super secret. Turn: 269 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_37 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Super secret. Turn: 270 Action list: ['r 10 3']
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Super secret. Turn: 271 Action list: ['bw 10 4']
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_47 Apparently I can't find any resources.
+Super secret. Turn: 272 Action list: ['r 9 4']
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_47 Apparently I can't find any resources.
+Super secret. Turn: 273 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_47 Apparently I can't find any resources.
+Super secret. Turn: 274 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_47 Apparently I can't find any resources.
+Super secret. Turn: 275 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_47 Apparently I can't find any resources.
+Super secret. Turn: 276 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_47 Apparently I can't find any resources.
+Super secret. Turn: 277 Action list: []
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_47 Apparently I can't find any resources.
+Super secret. Turn: 278 Action list: ['r 10 2', 'r 10 1']
+Well.. Shit. I'm unit, u_30 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_34 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_45 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_46 Apparently I can't find any resources.
+Well.. Shit. I'm unit, u_47 Apparently I can't find any resources.
+Super secret. Turn: 279 Action list: []
+Super secret. Turn: 280 Action list: []

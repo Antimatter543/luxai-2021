@@ -1,0 +1,14 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+I am devastator variant agent!!
+Super secret. Turn: 0 Action list: ['r 5 30', 'm u_2 n', 'dl 5 30 5 29']
+Super secret. Turn: 1 Action list: []
+<class 'lux.game_objects.City'> [<lux.game_objects.CityTile object at 0x0000021DB4A868E0>]
+Traceback (most recent call last):
+  File "C:\Users\Yuvraj\Desktop\Python\Hackathons\luxai\simple\variant.py", line 34, in <module>
+    actions = agent(observation, None)
+  File "C:\Users\Yuvraj\Desktop\Python\Hackathons\luxai\simple\agents\variant.py", line 342, in agent
+    print("We're gonna save this endangered city!", endangered_city.id, file=sys.stderr)
+AttributeError: 'City' object has no attribute 'id'
+Agent timed out

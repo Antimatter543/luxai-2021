@@ -1,0 +1,750 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+I am devastator agent!!
+Super secret. Turn: 0 Action list: ['r 2 9', 'm u_1 n', 'dl 2 9 2 8']
+Super secret. Turn: 1 Action list: []
+Super secret. Turn: 2 Action list: ['m u_1 c', 'dl 2 8 2 8']
+Super secret. Turn: 3 Action list: ['m u_1 n', 'dl 2 8 2 7']
+Super secret. Turn: 4 Action list: []
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 5 Action list: ['bcity u_1']
+Super secret. Turn: 6 Action list: ['bw 2 7', 'm u_1 s', 'dl 2 7 2 8']
+Super secret. Turn: 7 Action list: ['m u_3 s', 'dl 2 7 2 8']
+Super secret. Turn: 8 Action list: ['m u_1 c', 'dl 2 8 2 8', 'dx 2 8']
+Super secret. Turn: 9 Action list: ['m u_1 w', 'dl 2 8 1 8', 'm u_3 s', 'dl 2 7 2 8']
+Super secret. Turn: 10 Action list: ['r 2 9']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 11 Action list: ['bcity u_1', 'm u_3 c', 'dl 2 8 2 8']
+Super secret. Turn: 12 Action list: ['bw 1 8', 'm u_1 e', 'dl 1 8 2 8', 'm u_3 n', 'dl 2 8 2 6']
+Super secret. Turn: 13 Action list: ['m u_3 s', 'dl 2 7 2 8', 'dx 2 8']
+Super secret. Turn: 14 Action list: ['m u_1 c', 'dl 2 8 2 8', 'dx 2 8', 'dx 2 8']
+Super secret. Turn: 15 Action list: ['m u_1 n', 'dl 2 8 2 6', 'm u_3 s', 'dl 2 7 2 8', 'dx 2 8']
+Super secret. Turn: 16 Action list: ['r 2 7', 'm u_1 s', 'dl 2 7 2 8', 'dx 2 8']
+Super secret. Turn: 17 Action list: ['m u_1 s', 'dl 2 7 2 8', 'dx 2 8', 'dx 2 8']
+Super secret. Turn: 18 Action list: ['m u_1 s', 'dl 2 7 2 8', 'm u_3 n', 'dl 2 8 2 6', 'dx 2 8']
+Super secret. Turn: 19 Action list: ['m u_3 s', 'dl 2 7 2 8', 'dx 2 8']
+Super secret. Turn: 20 Action list: ['r 2 9', 'm u_1 c', 'dl 2 8 2 8', 'dx 2 8', 'dx 2 8']
+Super secret. Turn: 21 Action list: ['m u_1 n', 'dl 2 8 2 6', 'm u_3 s', 'dl 2 7 2 8', 'dx 2 8']
+Super secret. Turn: 22 Action list: ['r 1 8', 'm u_1 e', 'dl 2 7 3 8', 'm u_4 e', 'dl 1 8 3 8']
+Super secret. Turn: 23 Action list: ['m u_3 e', 'dl 2 8 3 8', 'm u_4 e', 'dl 1 8 3 8']
+Super secret. Turn: 24 Action list: ['m u_1 s', 'dl 3 7 3 8']
+Super secret. Turn: 25 Action list: ['m u_1 s', 'dl 3 7 3 8', 'm u_3 n', 'dl 3 8 3 7', 'dx 3 8']
+Super secret. Turn: 26 Action list: ['r 2 7', 'm u_4 e', 'dl 2 8 3 8']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 27 Action list: ['m u_1 n', 'dl 3 8 3 7', 'bcity u_3', 'm u_4 e', 'dl 2 8 3 8']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 28 Action list: ['bw 3 7', 'm u_1 w', 'dl 3 8 2 8', 'm u_3 s', 'dl 3 7 3 8', 'bcity u_4']
+Super secret. Turn: 29 Action list: ['bw 2 8', 'm u_1 e', 'dl 3 8 4 8', 'm u_3 s', 'dl 3 7 3 8', 'dx 3 8', 'dx 3 8']
+Super secret. Turn: 30 Action list: ['r 2 9', 'm u_4 e', 'dl 2 8 3 8', 'dx 3 8', 'dx 3 8']
+Well.. Shit. I'm unit, u_1 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_3 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 31 Action list: []
+Well.. Shit. I'm unit, u_1 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_3 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 32 Action list: ['r 1 8']
+Well.. Shit. I'm unit, u_1 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_3 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 33 Action list: []
+Well.. Shit. I'm unit, u_1 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_3 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 34 Action list: []
+Well.. Shit. I'm unit, u_1 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_3 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 35 Action list: []
+Well.. Shit. I'm unit, u_1 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_3 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 36 Action list: ['r 2 7']
+Well.. Shit. I'm unit, u_1 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_3 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 37 Action list: []
+Well.. Shit. I'm unit, u_1 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_3 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 38 Action list: ['r 3 7']
+Well.. Shit. I'm unit, u_1 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_3 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 39 Action list: ['r 2 8']
+Super secret. Turn: 40 Action list: ['r 2 9', 'm u_1 s', 'dl 4 8 3 9', 'm u_3 s', 'dl 3 8 3 9', 'm u_4 e', 'dl 2 8 3 9', 'dx 3 8', 'dx 3 8']
+Super secret. Turn: 41 Action list: ['m u_6 s', 'dl 3 7 3 9', 'dx 3 8']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 42 Action list: ['r 1 8', 'bcity u_1', 'm u_3 n', 'dl 3 9 3 8', 'm u_4 s', 'dl 3 8 3 9', 'dx 3 8', 'dx 3 8']
+Super secret. Turn: 43 Action list: ['bw 4 9', 'm u_1 w', 'dl 4 9 3 9', 'm u_6 s', 'dl 3 7 3 9', 'dx 3 8']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 44 Action list: ['m u_1 w', 'dl 4 9 3 9', 'bcity u_3', 'dx 3 9', 'm u_6 s', 'dl 3 7 3 9', 'dx 3 8', 'dx 3 9']
+Super secret. Turn: 45 Action list: ['bw 3 8', 'm u_1 w', 'dl 4 9 3 9', 'dx 3 9', 'm u_4 s', 'dl 3 9 3 10', 'm u_6 s', 'dl 3 7 3 9', 'm u_7 e', 'dl 2 8 3 9', 'dx 3 9']
+Super secret. Turn: 46 Action list: ['r 2 7', 'm u_3 s', 'dl 3 8 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 47 Action list: ['m u_1 c', 'dl 3 9 3 9', 'dx 3 9', 'bcity u_4', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9']
+Super secret. Turn: 48 Action list: ['bw 3 7', 'bw 3 10', 'm u_1 c', 'dl 3 9 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9']
+Super secret. Turn: 49 Action list: ['r 2 8', 'r 3 10', 'm u_1 c', 'dl 3 9 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'm u_11 s', 'dl 3 7 3 9']
+Super secret. Turn: 50 Action list: ['r 2 9', 'm u_1 n', 'dl 3 9 4 8', 'm u_3 s', 'dl 3 8 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9']
+Super secret. Turn: 51 Action list: ['m u_1 s', 'dl 3 8 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9', 'dx 3 9']
+Super secret. Turn: 52 Action list: ['r 1 8', 'm u_1 e', 'dl 3 8 8 8', 'm u_3 e', 'dl 3 9 8 9', 'm u_4 s', 'dl 3 10 0 11', 'dx 4 8', 'dx 4 8', 'm u_9 e', 'dl 4 9 8 9', 'dx 4 8', 'dx 4 8']
+Super secret. Turn: 53 Action list: ['r 4 9', 'm u_3 e', 'dl 4 9 8 9', 'm u_6 n', 'dl 3 8 1 4', 'm u_7 n', 'dl 3 8 1 4', 'm u_10 n', 'dl 3 8 1 4', 'm u_11 n', 'dl 3 8 1 4']
+Super secret. Turn: 54 Action list: ['m u_1 e', 'dl 4 8 8 9', 'm u_3 e', 'dl 4 9 8 9', 'm u_4 w', 'dl 3 11 0 11', 'm u_6 n', 'dl 3 7 1 4', 'dx 3 6', 'm u_9 e', 'dl 5 9 8 9', 'dx 3 6', 'dx 3 6']
+Super secret. Turn: 55 Action list: ['r 3 8', 'm u_7 n', 'dl 3 7 1 4', 'dx 3 6', 'dx 3 6']
+Super secret. Turn: 56 Action list: ['r 2 7', 'm u_1 e', 'dl 5 8 8 9', 'm u_3 e', 'dl 5 9 8 9', 'm u_4 w', 'dl 2 11 0 11', 'm u_6 n', 'dl 3 6 1 4', 'm u_7 n', 'dl 3 7 1 4', 'm u_9 e', 'dl 6 9 8 9', 'dx 3 6', 'dx 3 6']
+Super secret. Turn: 57 Action list: ['m u_10 n', 'dl 3 7 1 4', 'dx 3 6']
+Super secret. Turn: 58 Action list: ['r 3 7', 'm u_1 e', 'dl 6 8 8 9', 'm u_3 e', 'dl 6 9 8 9', 'm u_4 w', 'dl 1 11 0 11', 'm u_6 n', 'dl 3 5 1 4', 'm u_7 n', 'dl 3 6 1 4', 'm u_9 e', 'dl 7 9 8 9', 'm u_10 n', 'dl 3 7 1 4', 'dx 3 6']
+Super secret. Turn: 59 Action list: ['r 2 8', 'r 3 10', 'm u_3 e', 'dl 6 9 8 9', 'm u_9 e', 'dl 7 9 8 9', 'm u_11 n', 'dl 3 7 1 4']
+Super secret. Turn: 60 Action list: ['r 2 9', 'm u_1 e', 'dl 7 8 8 9', 'm u_3 e', 'dl 6 9 8 9', 'm u_4 c', 'dl 0 11 0 11', 'm u_6 w', 'dl 3 4 1 4', 'm u_7 n', 'dl 3 5 1 4', 'm u_9 e', 'dl 7 9 8 9', 'm u_10 n', 'dl 3 6 1 4', 'm u_11 n', 'dl 3 7 1 4']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 61 Action list: ['m u_1 e', 'dl 7 8 8 9', 'm u_3 e', 'dl 6 9 8 9', 'm u_4 e', 'dl 0 11 1 11', 'bcity u_9']
+Super secret. Turn: 62 Action list: ['bw 1 8', 'bw 7 9', 'm u_1 n', 'dl 7 8 10 4', 'm u_3 e', 'dl 6 9 11 11', 'm u_6 w', 'dl 2 4 1 4', 'm u_7 w', 'dl 3 4 1 4', 'm u_9 e', 'dl 7 9 11 11', 'm u_10 n', 'dl 3 5 1 4', 'm u_11 n', 'dl 3 6 1 4']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 63 Action list: ['r 4 9', 'r 7 9', 'm u_3 e', 'dl 7 9 11 11', 'bcity u_4', 'dx 8 9', 'm u_13 n', 'dl 1 8 1 4']
+Super secret. Turn: 64 Action list: ['bw 1 11', 'm u_1 n', 'dl 7 7 10 4', 'm u_4 w', 'dl 1 11 0 11', 'm u_6 e', 'dl 1 4 2 4', 'm u_7 w', 'dl 2 4 1 4', 'm u_9 e', 'dl 7 9 11 11', 'dx 2 4', 'm u_11 n', 'dl 3 5 1 4']
+Super secret. Turn: 65 Action list: ['r 3 8', 'm u_3 e', 'dl 8 9 11 11', 'm u_9 e', 'dl 7 9 11 11', 'm u_10 w', 'dl 3 4 1 4', 'm u_11 n', 'dl 3 5 1 4', 'm u_13 n', 'dl 1 7 1 4', 'm u_15 w', 'dl 1 11 0 11']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 66 Action list: ['r 2 7', 'm u_1 n', 'dl 7 6 10 4', 'm u_3 e', 'dl 8 9 11 11', 'm u_4 c', 'dl 0 11 0 11', 'bcity u_6', 'm u_7 e', 'dl 1 4 2 4', 'm u_9 e', 'dl 7 9 11 11', 'dx 2 4', 'm u_11 n', 'dl 3 5 1 4', 'dx 0 11']
+Super secret. Turn: 67 Action list: ['bw 2 4', 'm u_3 e', 'dl 8 9 11 11', 'm u_4 c', 'dl 0 11 0 11', 'm u_6 w', 'dl 2 4 1 4', 'm u_7 s', 'dl 1 4 1 5', 'm u_9 e', 'dl 7 9 11 11', 'm u_10 w', 'dl 3 4 1 4', 'm u_11 n', 'dl 3 5 1 4', 'dx 1 5', 'dx 0 11']
+Super secret. Turn: 68 Action list: ['r 3 7', 'm u_1 n', 'dl 7 5 10 4', 'm u_3 e', 'dl 8 9 11 11', 'm u_4 c', 'dl 0 11 0 11', 'm u_9 e', 'dl 7 9 11 11', 'm u_10 w', 'dl 2 4 1 4', 'm u_13 n', 'dl 1 6 1 4', 'dx 0 11', 'dx 1 4']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 69 Action list: ['r 2 8', 'r 3 10', 'm u_3 e', 'dl 8 9 11 11', 'm u_4 n', 'dl 0 11 0 9', 'm u_6 s', 'dl 1 4 1 5', 'bcity u_7', 'm u_9 e', 'dl 7 9 11 11', 'm u_10 w', 'dl 2 4 1 4', 'm u_11 w', 'dl 3 4 1 4', 'dx 1 5', 'm u_15 w', 'dl 1 11 0 11', 'dx 1 4']
+Super secret. Turn: 70 Action list: ['bw 2 9', 'bw 1 5', 'm u_1 e', 'dl 7 4 10 4', 'm u_3 e', 'dl 8 9 11 11', 'm u_6 n', 'dl 1 4 1 2', 'm u_7 n', 'dl 1 5 1 4', 'm u_9 e', 'dl 7 9 11 11', 'dx 1 4', 'dx 1 4', 'm u_13 n', 'dl 1 6 1 4', 'dx 1 4']
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_10 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_11 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_13 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_15 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_16 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_17 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 71 Action list: ['bw 1 5']
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_10 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_11 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_13 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_15 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_16 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_17 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_19 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 72 Action list: ['bw 1 8']
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_10 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_11 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_15 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_16 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 73 Action list: ['r 4 9']
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_10 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_11 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_15 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_16 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 74 Action list: ['r 1 11']
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_10 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_11 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_15 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_16 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 75 Action list: []
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_10 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_11 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_15 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_16 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 76 Action list: []
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_10 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_11 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_15 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_16 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 77 Action list: ['r 2 4']
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_10 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_11 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_15 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_16 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 78 Action list: []
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_15 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 79 Action list: []
+Super secret. Turn: 80 Action list: ['m u_4 s', 'dl 0 10 0 11', 'm u_6 c', 'dl 1 3 1 3', 'm u_7 c', 'dl 1 4 1 4', 'dx 0 11']
+Super secret. Turn: 81 Action list: ['m u_4 n', 'dl 0 10 0 9', 'm u_6 n', 'dl 1 3 1 2', 'm u_7 e', 'dl 1 4 2 4', 'm u_15 e', 'dl 0 11 1 11']
+Super secret. Turn: 82 Action list: []
+I'm gonna build a city because I have full inventory + I can build!
+I'm gonna build a city because I have full inventory + I can build!
+I'm gonna build a city because I have full inventory + I can build!
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 83 Action list: ['bcity u_4', 'bcity u_6', 'bcity u_7', 'bcity u_15']
+Super secret. Turn: 84 Action list: ['r 0 9', 'r 1 2', 'r 2 4', 'r 1 11', 'm u_4 s', 'dl 0 9 0 11', 'm u_6 s', 'dl 1 2 1 3', 'm u_7 w', 'dl 2 4 1 4', 'm u_15 w', 'dl 1 11 0 11']
+Super secret. Turn: 85 Action list: []
+Super secret. Turn: 86 Action list: ['m u_4 n', 'dl 0 10 0 4', 'm u_6 e', 'dl 1 3 2 3', 'm u_7 s', 'dl 1 4 1 5', 'm u_15 n', 'dl 0 11 0 4']
+Super secret. Turn: 87 Action list: ['m u_4 n', 'dl 0 9 0 4']
+I'm gonna build a city because I have full inventory + I can build!
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 88 Action list: ['bcity u_6', 'bcity u_7', 'm u_15 n', 'dl 0 10 0 4']
+Super secret. Turn: 89 Action list: ['bw 2 3', 'bw 1 5', 'm u_4 n', 'dl 0 8 0 4', 'm u_6 w', 'dl 2 3 1 3', 'm u_7 n', 'dl 1 5 1 3', 'm u_15 n', 'dl 0 9 0 4']
+Super secret. Turn: 90 Action list: ['m u_21 w', 'dl 2 3 1 3', 'm u_22 n', 'dl 1 5 1 3']
+Super secret. Turn: 91 Action list: ['m u_4 n', 'dl 0 7 0 4', 'm u_6 c', 'dl 1 3 1 3', 'dx 1 3', 'm u_15 n', 'dl 0 8 0 4', 'dx 1 3', 'm u_22 n', 'dl 1 5 1 3']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 92 Action list: ['m u_6 s', 'dl 1 3 1 4', 'bcity u_7', 'm u_21 w', 'dl 2 3 1 3', 'dx 1 4']
+Super secret. Turn: 93 Action list: ['bw 1 4', 'm u_4 n', 'dl 0 6 0 4', 'm u_6 n', 'dl 1 3 1 1', 'm u_7 n', 'dl 1 4 1 3', 'm u_15 n', 'dl 0 7 0 4', 'dx 1 3', 'm u_22 n', 'dl 1 5 1 3']
+Super secret. Turn: 94 Action list: ['r 0 9', 'r 1 2', 'r 2 4', 'r 1 11', 'm u_6 s', 'dl 1 2 1 3', 'dx 1 3', 'dx 1 3', 'dx 1 3']
+Super secret. Turn: 95 Action list: ['m u_4 n', 'dl 0 5 0 4', 'm u_6 s', 'dl 1 2 1 3', 'dx 1 3', 'm u_15 n', 'dl 0 6 0 4', 'dx 1 3', 'dx 1 3', 'dx 1 3']
+Super secret. Turn: 96 Action list: ['m u_6 s', 'dl 1 2 1 3', 'm u_7 n', 'dl 1 3 1 1', 'dx 1 3', 'dx 1 3', 'dx 1 3']
+Super secret. Turn: 97 Action list: ['m u_4 s', 'dl 0 4 0 5', 'm u_7 s', 'dl 1 2 0 3', 'm u_15 n', 'dl 0 5 0 4', 'dx 1 3', 'dx 0 4', 'dx 0 4']
+Super secret. Turn: 98 Action list: ['m u_6 w', 'dl 1 3 0 3', 'm u_7 s', 'dl 1 2 0 3', 'dx 1 3', 'm u_22 w', 'dl 1 4 0 4', 'dx 0 4']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 99 Action list: ['r 2 3', 'r 1 5', 'bcity u_4', 'm u_15 s', 'dl 0 4 0 5', 'm u_21 w', 'dl 2 3 0 3', 'm u_22 w', 'dl 1 4 0 4', 'dx 0 4']
+Super secret. Turn: 100 Action list: ['bw 0 5', 'm u_4 n', 'dl 0 5 0 4', 'm u_6 n', 'dl 0 3 0 2', 'm u_7 w', 'dl 1 3 0 3', 'dx 0 3', 'm u_21 w', 'dl 2 3 0 3', 'dx 0 4', 'dx 0 4']
+Super secret. Turn: 101 Action list: ['m u_4 n', 'dl 0 5 0 4', 'm u_15 n', 'dl 0 4 0 2', 'dx 0 4', 'dx 0 4', 'dx 0 4']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 102 Action list: ['m u_4 n', 'dl 0 5 0 4', 'bcity u_6', 'm u_7 n', 'dl 0 3 0 2', 'm u_15 n', 'dl 0 4 0 2', 'dx 0 3', 'dx 0 4', 'dx 0 4', 'dx 0 4']
+Super secret. Turn: 103 Action list: ['bw 0 2', 'bw 1 4', 'm u_4 n', 'dl 0 5 0 4', 'm u_6 s', 'dl 0 2 0 3', 'm u_7 e', 'dl 0 3 1 3', 'dx 0 3', 'dx 0 3', 'dx 0 4', 'dx 0 4', 'dx 0 4']
+Super secret. Turn: 104 Action list: ['r 0 9', 'r 1 2', 'r 2 4', 'r 1 4', 'r 1 11', 'm u_4 n', 'dl 0 5 0 4', 'm u_6 s', 'dl 0 2 0 3', 'm u_7 e', 'dl 0 3 1 3', 'dx 0 3', 'dx 0 3', 'dx 0 4', 'dx 0 4', 'dx 0 4', 'dx 0 3']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 105 Action list: ['m u_4 n', 'dl 0 5 0 4', 'm u_6 s', 'dl 0 2 0 3', 'm u_7 e', 'dl 0 3 1 3', 'dx 0 3', 'bcity u_21', 'dx 0 4', 'dx 0 4', 'dx 0 4', 'dx 0 3']
+Super secret. Turn: 106 Action list: ['bw 1 3', 'm u_4 n', 'dl 0 5 0 4', 'm u_6 s', 'dl 0 2 0 3', 'm u_7 n', 'dl 0 3 0 1', 'm u_15 s', 'dl 0 4 0 6', 'dx 0 3', 'dx 0 4', 'dx 0 4', 'dx 0 4', 'dx 0 3']
+Super secret. Turn: 107 Action list: ['m u_7 n', 'dl 0 2 0 0', 'm u_15 n', 'dl 0 5 0 0', 'm u_21 n', 'dl 1 3 0 0', 'm u_22 n', 'dl 1 4 0 0', 'm u_23 n', 'dl 1 4 0 0', 'dx 0 4', 'dx 0 1', 'm u_27 n', 'dl 1 3 0 0']
+Super secret. Turn: 108 Action list: ['m u_4 n', 'dl 0 4 0 0', 'm u_6 n', 'dl 0 3 0 0', 'm u_15 n', 'dl 0 5 0 0', 'm u_21 n', 'dl 1 2 0 0', 'm u_22 n', 'dl 1 3 0 0', 'm u_23 n', 'dl 1 3 0 0', 'dx 0 4', 'm u_26 n', 'dl 0 2 0 0', 'dx 1 1']
+Super secret. Turn: 109 Action list: ['r 2 3', 'r 1 5', 'm u_6 n', 'dl 0 2 0 0', 'm u_7 n', 'dl 0 1 0 0', 'm u_22 n', 'dl 1 2 0 0', 'dx 1 1', 'm u_25 n', 'dl 0 5 0 0', 'dx 0 1', 'dx 1 1']
+Super secret. Turn: 110 Action list: ['r 0 5', 'm u_4 n', 'dl 0 3 0 0', 'm u_15 n', 'dl 0 4 0 0', 'm u_21 n', 'dl 1 1 0 0', 'm u_22 n', 'dl 1 2 0 0', 'dx 1 1', 'm u_25 n', 'dl 0 5 0 0', 'm u_26 n', 'dl 0 2 0 0', 'dx 1 1']
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_23 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_26 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_27 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 111 Action list: []
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_23 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_26 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_27 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 112 Action list: []
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_23 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_26 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_27 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 113 Action list: ['bw 0 2']
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_23 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_26 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_27 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_31 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 114 Action list: ['r 1 2', 'r 2 4', 'r 1 4']
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_23 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_26 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_27 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_31 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 115 Action list: []
+Well.. Shit. I'm unit, u_4 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_23 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_26 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_27 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_31 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 116 Action list: ['r 1 3']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 117 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 118 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 119 Action list: []
+Super secret. Turn: 120 Action list: ['m u_6 n', 'dl 0 1 0 0', 'dx 0 0', 'dx 0 0']
+Super secret. Turn: 121 Action list: ['m u_6 n', 'dl 0 1 0 0', 'dx 0 0', 'dx 0 0']
+Super secret. Turn: 122 Action list: ['m u_6 n', 'dl 0 1 0 0', 'dx 0 0', 'dx 0 0']
+Super secret. Turn: 123 Action list: ['m u_6 n', 'dl 0 1 0 0', 'dx 0 0', 'dx 0 0']
+Super secret. Turn: 124 Action list: ['m u_6 n', 'dl 0 1 0 0', 'dx 0 0', 'dx 0 0']
+Super secret. Turn: 125 Action list: ['m u_6 n', 'dl 0 1 0 0', 'dx 0 0', 'dx 0 0']
+Super secret. Turn: 126 Action list: ['m u_6 n', 'dl 0 1 0 0', 'dx 0 0', 'dx 0 0']
+Super secret. Turn: 127 Action list: ['m u_6 n', 'dl 0 1 0 0', 'dx 0 0', 'dx 0 0']
+Super secret. Turn: 128 Action list: ['m u_6 n', 'dl 0 1 0 0', 'dx 0 0', 'dx 0 0']
+Super secret. Turn: 129 Action list: ['m u_6 n', 'dl 0 1 0 0', 'm u_7 e', 'dl 0 0 1 0', 'dx 0 0']
+Super secret. Turn: 130 Action list: ['m u_6 n', 'dl 0 1 0 0', 'm u_7 e', 'dl 0 0 1 0', 'dx 0 0']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 131 Action list: ['bcity u_6', 'm u_7 e', 'dl 0 0 1 0', 'm u_21 w', 'dl 1 0 0 0']
+Super secret. Turn: 132 Action list: ['r 0 1', 'm u_6 n', 'dl 0 1 0 0']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 133 Action list: ['m u_6 n', 'dl 0 1 0 0', 'bcity u_7', 'm u_21 e', 'dl 0 0 1 0']
+Super secret. Turn: 134 Action list: ['r 1 0', 'm u_6 n', 'dl 0 1 0 0', 'dx 0 0', 'm u_21 e', 'dl 0 0 2 0']
+Super secret. Turn: 135 Action list: ['m u_7 w', 'dl 1 0 0 0', 'dx 0 0']
+Super secret. Turn: 136 Action list: ['m u_6 c', 'dl 0 0 0 0', 'dx 0 0', 'dx 0 0']
+Super secret. Turn: 137 Action list: ['m u_6 e', 'dl 0 0 4 0', 'm u_7 e', 'dl 1 0 4 0', 'dx 2 0']
+Super secret. Turn: 138 Action list: ['m u_6 e', 'dl 1 0 4 0', 'dx 2 0']
+Super secret. Turn: 139 Action list: ['m u_6 e', 'dl 1 0 4 0', 'm u_7 e', 'dl 2 0 4 0', 'dx 2 0']
+Super secret. Turn: 140 Action list: ['m u_21 e', 'dl 1 0 4 0']
+Super secret. Turn: 141 Action list: ['m u_6 e', 'dl 2 0 4 0', 'm u_7 e', 'dl 3 0 4 0', 'm u_21 e', 'dl 1 0 4 0']
+Super secret. Turn: 142 Action list: ['r 0 1']
+Super secret. Turn: 143 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'm u_21 e', 'dl 2 0 4 0']
+Super secret. Turn: 144 Action list: ['r 1 0', 'm u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'm u_21 e', 'dl 2 0 4 0']
+Super secret. Turn: 145 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'm u_21 e', 'dl 2 0 4 0']
+Super secret. Turn: 146 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'm u_21 e', 'dl 2 0 4 0']
+Super secret. Turn: 147 Action list: ['m u_6 e', 'dl 3 0 4 0', 'm u_7 w', 'dl 4 0 3 0', 'dx 3 0']
+Super secret. Turn: 148 Action list: ['m u_21 e', 'dl 2 0 4 0']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 149 Action list: ['m u_6 c', 'dl 4 0 4 0', 'bcity u_7', 'm u_21 e', 'dl 2 0 4 0']
+Super secret. Turn: 150 Action list: ['r 3 0', 'm u_6 c', 'dl 4 0 4 0', 'dx 4 0', 'm u_21 e', 'dl 2 0 4 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 151 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 152 Action list: ['r 0 1']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 153 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 154 Action list: ['r 1 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 155 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 156 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 157 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 158 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 159 Action list: []
+Super secret. Turn: 160 Action list: ['r 3 0', 'm u_6 c', 'dl 4 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 161 Action list: ['m u_6 w', 'dl 4 0 2 0', 'm u_7 e', 'dl 3 0 4 0', 'dx 4 0']
+Super secret. Turn: 162 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0']
+Super secret. Turn: 163 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 164 Action list: ['r 1 0', 'm u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 165 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 166 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 167 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 168 Action list: ['m u_6 e', 'dl 3 0 4 0', 'm u_7 w', 'dl 4 0 2 0', 'dx 4 0']
+Super secret. Turn: 169 Action list: ['m u_7 e', 'dl 3 0 4 0', 'dx 4 0']
+Super secret. Turn: 170 Action list: ['r 3 0', 'm u_6 c', 'dl 4 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 171 Action list: ['m u_6 c', 'dl 4 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 172 Action list: ['m u_6 c', 'dl 4 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 173 Action list: ['m u_6 c', 'dl 4 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 174 Action list: ['r 1 0', 'm u_6 c', 'dl 4 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 175 Action list: ['m u_6 w', 'dl 4 0 2 0', 'm u_7 e', 'dl 3 0 4 0', 'dx 4 0']
+Super secret. Turn: 176 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0']
+Super secret. Turn: 177 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 178 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 179 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 180 Action list: ['r 3 0', 'm u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 181 Action list: ['m u_6 e', 'dl 3 0 4 0', 'dx 4 0', 'dx 4 0']
+Super secret. Turn: 182 Action list: ['m u_6 e', 'dl 3 0 4 0', 'm u_7 w', 'dl 4 0 2 0', 'dx 4 0']
+Super secret. Turn: 183 Action list: ['m u_7 e', 'dl 3 0 4 0', 'dx 4 0']
+Super secret. Turn: 184 Action list: ['r 1 0', 'm u_6 e', 'dl 4 0 5 0', 'm u_7 e', 'dl 3 0 5 0', 'dx 4 0']
+Super secret. Turn: 185 Action list: ['m u_21 e', 'dl 3 0 5 0']
+Super secret. Turn: 186 Action list: ['m u_6 c', 'dl 5 0 5 0', 'dx 5 0', 'm u_21 e', 'dl 3 0 5 0']
+Super secret. Turn: 187 Action list: ['m u_6 c', 'dl 5 0 5 0', 'dx 5 0', 'm u_21 e', 'dl 3 0 5 0']
+Super secret. Turn: 188 Action list: ['m u_6 c', 'dl 5 0 5 0', 'dx 5 0', 'm u_21 e', 'dl 3 0 5 0']
+Super secret. Turn: 189 Action list: ['m u_6 c', 'dl 5 0 5 0', 'dx 5 0', 'm u_21 e', 'dl 3 0 5 0']
+Super secret. Turn: 190 Action list: ['r 3 0', 'm u_6 c', 'dl 5 0 5 0', 'dx 5 0', 'm u_21 e', 'dl 3 0 5 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 191 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 192 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 193 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 194 Action list: ['r 1 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 195 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 196 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 197 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 198 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 199 Action list: []
+Super secret. Turn: 200 Action list: ['r 3 0', 'm u_6 c', 'dl 5 0 5 0', 'dx 5 0', 'm u_21 e', 'dl 3 0 5 0']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 201 Action list: ['m u_6 w', 'dl 5 0 4 0', 'bcity u_7', 'dx 4 0']
+Super secret. Turn: 202 Action list: ['r 4 0', 'm u_6 s', 'dl 5 0 5 1', 'm u_7 e', 'dl 4 0 5 0', 'm u_21 e', 'dl 3 0 5 0']
+Super secret. Turn: 203 Action list: ['m u_21 e', 'dl 4 0 5 0']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 204 Action list: ['r 1 0', 'bcity u_6', 'm u_7 c', 'dl 5 0 5 0', 'dx 5 0']
+Super secret. Turn: 205 Action list: ['bw 5 1', 'm u_6 n', 'dl 5 1 5 0', 'dx 5 0', 'dx 5 0']
+Super secret. Turn: 206 Action list: ['m u_6 n', 'dl 5 1 5 0', 'dx 5 0', 'dx 5 0', 'dx 5 0']
+Super secret. Turn: 207 Action list: ['m u_6 n', 'dl 5 1 5 0', 'dx 5 0', 'dx 5 0', 'dx 5 0']
+Super secret. Turn: 208 Action list: ['m u_6 n', 'dl 5 1 5 0', 'dx 5 0', 'dx 5 0', 'dx 5 0']
+Super secret. Turn: 209 Action list: ['m u_6 n', 'dl 5 1 5 0', 'dx 5 0', 'dx 5 0', 'dx 5 0']
+Super secret. Turn: 210 Action list: ['r 3 0', 'm u_6 w', 'dl 5 1 4 1', 'm u_7 e', 'dl 5 0 6 0', 'dx 4 1', 'dx 4 1']
+Super secret. Turn: 211 Action list: ['m u_21 s', 'dl 4 0 4 1', 'dx 4 1']
+Super secret. Turn: 212 Action list: ['r 4 0', 'm u_6 c', 'dl 4 1 4 1', 'm u_7 c', 'dl 6 0 6 0', 'dx 4 1', 'dx 4 1']
+Super secret. Turn: 213 Action list: ['m u_6 c', 'dl 4 1 4 1', 'm u_7 w', 'dl 6 0 5 0', 'dx 4 1', 'dx 4 1']
+Super secret. Turn: 214 Action list: ['r 1 0', 'm u_6 c', 'dl 4 1 4 1', 'dx 4 1', 'dx 4 1']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 215 Action list: ['r 5 1', 'm u_6 n', 'dl 4 1 6 0', 'bcity u_7', 'm u_21 e', 'dl 4 0 6 0', 'dx 5 0']
+Super secret. Turn: 216 Action list: ['bw 5 0', 'm u_6 e', 'dl 4 0 6 0', 'm u_7 e', 'dl 5 0 6 0', 'm u_21 e', 'dl 4 0 6 0', 'm u_38 n', 'dl 5 1 6 0']
+Super secret. Turn: 217 Action list: ['m u_6 e', 'dl 5 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 218 Action list: ['m u_6 e', 'dl 5 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 219 Action list: ['m u_6 e', 'dl 5 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 220 Action list: ['r 3 0', 'm u_6 e', 'dl 5 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 221 Action list: ['m u_6 e', 'dl 5 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 222 Action list: ['r 4 0', 'm u_6 e', 'dl 5 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 223 Action list: ['m u_6 e', 'dl 5 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 224 Action list: ['r 1 0', 'm u_6 e', 'dl 5 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 225 Action list: ['r 5 1', 'm u_6 e', 'dl 5 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 226 Action list: ['r 5 0', 'm u_6 e', 'dl 5 0 6 0', 'm u_7 s', 'dl 6 0 6 1', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 227 Action list: ['m u_21 e', 'dl 5 0 6 0', 'dx 6 0', 'dx 6 0']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 228 Action list: ['m u_6 c', 'dl 6 0 6 0', 'bcity u_7', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 229 Action list: ['bw 6 1', 'm u_6 c', 'dl 6 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Super secret. Turn: 230 Action list: ['r 3 0', 'm u_6 c', 'dl 6 0 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0', 'dx 6 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 231 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 232 Action list: ['r 4 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 233 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 234 Action list: ['r 1 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 235 Action list: ['r 5 1']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 236 Action list: ['r 5 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 237 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 238 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 239 Action list: ['r 6 1']
+Super secret. Turn: 240 Action list: ['r 3 0', 'm u_6 e', 'dl 6 0 7 0', 'm u_7 e', 'dl 6 1 7 1', 'm u_21 e', 'dl 5 0 7 0', 'dx 6 0', 'dx 6 0', 'dx 7 1']
+Super secret. Turn: 241 Action list: ['m u_38 e', 'dl 5 0 7 0', 'dx 6 0', 'm u_41 e', 'dl 6 1 7 1']
+Super secret. Turn: 242 Action list: ['r 4 0', 'm u_6 w', 'dl 7 0 6 0', 'm u_7 c', 'dl 7 1 7 1', 'm u_21 e', 'dl 6 0 7 0', 'dx 6 0', 'dx 6 0', 'dx 7 1']
+Super secret. Turn: 243 Action list: ['m u_6 w', 'dl 7 0 6 0', 'm u_7 c', 'dl 7 1 7 1', 'm u_21 e', 'dl 6 0 7 0', 'dx 6 0', 'dx 6 0', 'dx 7 1']
+Super secret. Turn: 244 Action list: ['r 1 0', 'm u_6 w', 'dl 7 0 6 0', 'm u_7 c', 'dl 7 1 7 1', 'm u_21 e', 'dl 6 0 7 0', 'dx 6 0', 'dx 6 0', 'dx 7 1']
+Super secret. Turn: 245 Action list: ['r 5 1', 'm u_6 w', 'dl 7 0 6 0', 'm u_7 c', 'dl 7 1 7 1', 'm u_21 e', 'dl 6 0 7 0', 'dx 6 0', 'dx 6 0', 'dx 7 1']
+Super secret. Turn: 246 Action list: ['r 5 0', 'm u_6 w', 'dl 7 0 6 0', 'm u_7 c', 'dl 7 1 7 1', 'm u_21 e', 'dl 6 0 7 0', 'dx 6 0', 'dx 6 0', 'dx 7 1']
+Super secret. Turn: 247 Action list: ['m u_6 w', 'dl 7 0 6 0', 'm u_7 c', 'dl 7 1 7 1', 'm u_21 e', 'dl 6 0 7 0', 'dx 6 0', 'dx 6 0', 'dx 7 1']
+Super secret. Turn: 248 Action list: ['m u_7 c', 'dl 7 1 7 1', 'm u_38 e', 'dl 5 0 7 0', 'dx 6 0', 'dx 7 1']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 249 Action list: ['r 6 1', 'bcity u_6', 'm u_7 c', 'dl 7 1 7 1', 'm u_21 c', 'dl 7 0 7 0', 'm u_38 e', 'dl 5 0 7 0', 'dx 6 0', 'dx 7 1']
+Super secret. Turn: 250 Action list: ['bw 3 0', 'bw 6 0', 'm u_6 e', 'dl 6 0 7 0', 'm u_7 e', 'dl 7 1 8 1', 'dx 7 0', 'm u_38 e', 'dl 5 0 7 0', 'm u_39 e', 'dl 5 0 7 0', 'm u_41 e', 'dl 6 1 7 1']
+Super secret. Turn: 251 Action list: ['r 6 0', 'm u_6 e', 'dl 6 0 7 0', 'dx 7 0', 'dx 7 0', 'dx 7 0', 'm u_42 e', 'dl 3 0 7 0']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 252 Action list: ['r 4 0', 'm u_6 e', 'dl 6 0 7 0', 'bcity u_7', 'dx 7 0', 'dx 7 0', 'dx 7 0', 'm u_41 c', 'dl 7 1 7 1', 'm u_42 e', 'dl 4 0 7 0']
+Super secret. Turn: 253 Action list: ['bw 8 1', 'm u_6 e', 'dl 6 0 7 0', 'm u_7 w', 'dl 8 1 7 1', 'dx 7 0', 'dx 7 0', 'dx 7 0', 'dx 7 1', 'm u_42 e', 'dl 5 0 7 0']
+Super secret. Turn: 254 Action list: ['r 1 0', 'm u_6 e', 'dl 6 0 7 0', 'm u_7 w', 'dl 8 1 7 1', 'm u_21 e', 'dl 7 0 8 0', 'dx 7 0', 'dx 7 0', 'dx 7 1', 'dx 7 0', 'dx 7 1']
+Super secret. Turn: 255 Action list: ['r 5 1', 'm u_7 w', 'dl 8 1 7 1', 'm u_38 e', 'dl 6 0 7 0', 'dx 7 0', 'dx 7 1', 'dx 7 0', 'dx 7 1']
+I'm gonna build a city because I have full inventory + I can build!
+Super secret. Turn: 256 Action list: ['r 5 0', 'm u_6 c', 'dl 7 0 7 0', 'm u_7 w', 'dl 8 1 7 1', 'bcity u_21', 'dx 7 0', 'dx 7 0', 'dx 7 1', 'dx 7 0', 'dx 7 1']
+Super secret. Turn: 257 Action list: ['bw 8 0', 'm u_6 c', 'dl 7 0 7 0', 'm u_7 w', 'dl 8 1 7 1', 'dx 7 0', 'dx 7 0', 'dx 7 0', 'dx 7 1', 'dx 7 0', 'dx 7 1']
+Super secret. Turn: 258 Action list: ['m u_6 s', 'dl 7 0 7 1', 'dx 7 1', 'm u_21 s', 'dl 8 0 7 1', 'm u_38 e', 'dl 6 0 7 1', 'dx 7 0', 'dx 7 1', 'dx 7 0', 'dx 7 1', 'm u_44 s', 'dl 8 0 7 1']
+Super secret. Turn: 259 Action list: ['r 6 1', 'm u_6 s', 'dl 7 0 7 1', 'dx 7 1', 'dx 7 1', 'm u_38 e', 'dl 6 0 7 1', 'dx 7 0', 'dx 7 1', 'dx 7 0', 'dx 7 1', 'dx 7 1']
+Super secret. Turn: 260 Action list: ['r 3 0', 'm u_6 s', 'dl 7 0 7 1', 'dx 7 1', 'dx 7 1', 'm u_38 e', 'dl 6 0 7 1', 'dx 7 0', 'dx 7 1', 'dx 7 0', 'dx 7 1', 'dx 7 1']
+Super secret. Turn: 261 Action list: ['r 6 0', 'm u_6 s', 'dl 7 0 7 1', 'dx 7 1', 'dx 7 1', 'm u_38 e', 'dl 6 0 7 1', 'dx 7 0', 'dx 7 1', 'dx 7 0', 'dx 7 1', 'dx 7 1']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 262 Action list: ['r 4 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 263 Action list: ['r 8 1']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 264 Action list: ['r 1 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 265 Action list: ['r 5 1']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 266 Action list: ['r 5 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 267 Action list: ['r 8 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 268 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 269 Action list: ['r 6 1']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 270 Action list: ['r 3 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 271 Action list: ['r 6 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 272 Action list: ['r 4 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 273 Action list: ['r 8 1']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 274 Action list: ['r 1 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 275 Action list: ['r 5 1']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 276 Action list: ['r 5 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 277 Action list: ['r 8 0']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 278 Action list: []
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 279 Action list: ['r 6 1']
+Well.. Shit. I'm unit, u_6 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_7 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_21 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_38 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_39 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_41 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_42 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_43 Apparently I can't find any resources. Or it's nighttime
+Well.. Shit. I'm unit, u_44 Apparently I can't find any resources. Or it's nighttime
+Super secret. Turn: 280 Action list: ['r 3 0']
